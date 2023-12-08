@@ -1,7 +1,7 @@
 <h1 align="center"> Vertexo </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-   <img alt="Vertexo" title="Vertexo" src="https://www.datocms-assets.com/94322/1690354224-group-1000002862.png" width="350px" >
+   <img alt="Vertexo" title="Vertexo" src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-1/160904742_204347621485557_4293449619174067119_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=111&ccb=1-7&_nc_sid=db1b99&_nc_ohc=Y63QQqTBZ0AAX9d2n3_&_nc_ht=scontent-lga3-2.xx&oh=00_AfAUTyh3wXwTJ2VFb1FJNV79VnF9YOB6rkD4SSy5GUvRSQ&oe=659A734F" width="350px" >
   </a>
 </p>
 
